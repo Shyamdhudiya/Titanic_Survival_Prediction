@@ -2,9 +2,9 @@
 
 This repository contains data analytics projects completed as part of the **Data Analyst Internship at Afame Technologies**.
 
-![Image](Titanic_Picture.jpg)
-
 # Titanic Survival Prediction 🚢
+
+![Image](Titanic_Picture.jpg)
 
 This project predicts whether a passenger survived the Titanic disaster using a machine learning model (Logistic Regression). The dataset is cleaned, visualized, and modeled to gain insights into survival patterns.
 
