@@ -82,4 +82,4 @@ These projects were completed as part of the **Afame Technologies Data Analyst I
 
 For feedback or questions, feel free to reach out!
 - 📧 Email: [dhudiyashyam84@gmail.com](dhudiyashyam84@gmail.com)
-- 🔗 LinkedIn: [Shyam_Dhudiya](www.linkedin.com/in/shyam-dhudiya-75240b302)
+- 🔗 LinkedIn: [Shyam_Dhudiya](https://www.linkedin.com/in/shyam-dhudiya-75240b302)
