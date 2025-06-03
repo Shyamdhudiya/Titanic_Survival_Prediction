@@ -64,6 +64,22 @@ This project predicts whether a passenger survived the Titanic disaster using a 
 2. Run `titanic_survival_prediction.py`.
 3. Review printed outputs and plots.
 
+---
+
+## 🧑‍💻 About the Internship
+
+These projects were completed as part of the **Afame Technologies Data Analyst Internship**. The objective is to apply real-world data analytics techniques and tools to analyze, visualize, and derive insights from business data.
+
+📩 For assistance during the project, contact: [internship@afame.in](mailto:internship@afame.in)
+
+---
+
+⭐ **Thank you Afame Technologies for the opportunity!**
+
+---
+
 ## 📬 Contact
 
 For feedback or questions, feel free to reach out!
+- 📧 Email: [your.email@example.com](dhudiyashyam84@gmail.com)
+- 🔗 LinkedIn: [Shyam_Dhudiya](linkedin.com/in/shyam-dhudiya-75240b302)
